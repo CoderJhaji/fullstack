@@ -242,7 +242,7 @@ Future versions could connect suspicious emails, phone numbers, and payment iden
 
 ## Team
 
-**Team Name:** ProtoMindss
+**Team Name:** TrustHire
 
 **Team Members:**
 
